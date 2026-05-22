@@ -1,13 +1,17 @@
 # 🚚 Yumigo — My Orders Screen
 
-A native Android application built with **Kotlin + XML** that implements the **"My Orders"** screen UI as part of an internship assignment. The screen displays a list of past orders with filtering, search, and action capabilities.
+A native Android application built with **Kotlin + XML** that implements the **"My Orders"** screen UI. The screen displays a list of past orders with filtering, search, and action capabilities.
 
 ---
 
 ## 📱 Screenshots
 
-| My Orders Screen |
-|:---:|
+
+<p align="center">
+  <img src="Screenshot 2026-05-22 232214.png" width="300"/>
+</p>
+
+
 | *The main screen showing the yellow header, search bar, filter tabs, info banner, and scrollable order cards with bottom navigation.* |
 
 ---
